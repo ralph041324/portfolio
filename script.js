@@ -1,9 +1,3 @@
-/* ==========================================================
-   script.js - Personal Portfolio (CC107 Activity 4)
-   Features: 1) Dark/light mode toggle
-             2) Hamburger menu for mobile
-   ========================================================== */
-
 // Get the elements we need from the page
 const themeToggle = document.getElementById("theme-toggle");
 const menuToggle = document.getElementById("menu-toggle");
