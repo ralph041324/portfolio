@@ -11,4 +11,4 @@ A single-page portfolio built with HTML, CSS, and JavaScript.
 - Hamburger menu on mobile
 - Smooth scrolling between sections
 
-Live site: https://your-username.github.io/portfolio/
+Live site: https://ralph041324.github.io/portfolio/
